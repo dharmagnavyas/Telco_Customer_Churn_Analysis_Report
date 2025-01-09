@@ -116,15 +116,11 @@ weighted avg      0.76      0.77      0.76     1407
 - Competitor pricing information
 
 ## Output Files 📁
-1. **TelcoChurnAnalysis.pdf**
+**TelcoChurnAnalysis.pdf**
    - Comprehensive analysis report
    - Visual insights
    - Detailed recommendations
 
-2. **telco_analysis_insights.txt**
-   - Key findings summary
-   - Detailed analysis notes
-   - Future recommendations
 
 ## Business Impact 💼
 - Potential reduction in customer churn
