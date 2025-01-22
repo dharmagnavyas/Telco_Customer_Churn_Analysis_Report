@@ -127,6 +127,3 @@ weighted avg      0.76      0.77      0.76     1407
 - Improved customer satisfaction
 - Enhanced revenue retention
 - Better resource allocation for retention efforts
-
----
-*This analysis was completed as part of a data science position application assignment.*
